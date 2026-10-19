@@ -34,7 +34,7 @@ Python 3.8+ and root privileges. No third-party Python libraries. The script ask
 ## Usage
 
 ```bash
-git clone https://github.com/USER/ipcheck.git
+git clone https://github.com/Nafanya1337/ipcheck.git
 cd ipcheck
 python3 check.py
 ```
