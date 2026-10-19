@@ -32,7 +32,7 @@ Python 3.8+ и права root. Внешних Python-библиотек нет.
 ## Использование
 
 ```bash
-git clone https://github.com/USER/ipcheck.git
+git clone https://github.com/Nafanya1337/ipcheck.git
 cd ipcheck
 python3 check.py
 ```
