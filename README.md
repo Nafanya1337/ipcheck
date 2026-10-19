@@ -42,7 +42,7 @@ python3 check.py
 Then paste an IP. You can also pass several addresses as arguments, and a ranking will be printed at the end:
 
 ```bash
-python3 check.py 195.123.209.202 185.237.185.52 92.118.205.95
+python3 check.py ip1 ip2 ip3
 ```
 
 The `--debug` flag prints the text returned by cheburcheck.ru. Use it to adjust page parsing if the service changes its layout.
